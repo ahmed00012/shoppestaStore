@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123228075157",
+    "project_id": "shoppesta-8a6a4",
+    "storage_bucket": "shoppesta-8a6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123228075157:android:b5f896aae8a69ba60f179c",
+        "android_client_info": {
+          "package_name": "com.example.shoppesta_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoYh3OETKUwhMtL52rNptlfbZo1KAcIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
